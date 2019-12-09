@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="x_24908_dos_itsm_new_field_test_2" table="incident">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="x_24908_dos_itsm_opdiv" table="sys_user">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -9,7 +9,7 @@
         <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>New Field Test 2</column_label>
+        <column_label>OpDiv</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -22,7 +22,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>x_24908_dos_itsm_new_field_test_2</element>
+        <element>x_24908_dos_itsm_opdiv</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
@@ -30,7 +30,7 @@
         <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
-        <name>incident</name>
+        <name>sys_user</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
@@ -46,17 +46,17 @@
         <spell_check>false</spell_check>
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
-        <sys_created_by>dos.developer2</sys_created_by>
-        <sys_created_on>2019-12-05 16:50:48</sys_created_on>
-        <sys_id>bd9981291b2500105e0bdd3cdc4bcba1</sys_id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-09 22:20:34</sys_created_on>
+        <sys_id>8118fdf21b2100105e0bdd3cdc4bcb65</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>New Field Test 2</sys_name>
+        <sys_name>OpDiv</sys_name>
         <sys_package display_value="DOS: ITSM" source="x_24908_dos_itsm">671e77111b2100105e0bdd3cdc4bcb39</sys_package>
         <sys_policy/>
         <sys_scope display_value="DOS: ITSM">671e77111b2100105e0bdd3cdc4bcb39</sys_scope>
-        <sys_update_name>sys_dictionary_incident_x_24908_dos_itsm_new_field_test_2</sys_update_name>
+        <sys_update_name>sys_dictionary_sys_user_x_24908_dos_itsm_opdiv</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-12-05 21:45:04</sys_updated_on>
+        <sys_updated_on>2019-12-09 22:20:34</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
