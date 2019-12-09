@@ -27,9 +27,13 @@
         <rest_service_text/>
         <rest_variables/>
         <role_conditions/>
-        <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
+        <script><![CDATA[(function executeRule(current, previous /*null when async*/ ) {
 
-	gs.info('BR Test 1 is executed...');
+    var arrayUtil = new global.ArrayUtil();
+    var a1 = new Array("a", "b", "c");
+    var a2 = new Array("c", "d", "e");
+
+    gs.info("concat a1, a2: " + arrayUtil.concat(a1, a2));
 
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
@@ -38,7 +42,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>cde781a51b2500105e0bdd3cdc4bcb38</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>BR Test 1</sys_name>
         <sys_overrides/>
         <sys_package display_value="DOS: ITSM" source="x_24908_dos_itsm">671e77111b2100105e0bdd3cdc4bcb39</sys_package>
@@ -46,7 +50,7 @@
         <sys_scope display_value="DOS: ITSM">671e77111b2100105e0bdd3cdc4bcb39</sys_scope>
         <sys_update_name>sys_script_cde781a51b2500105e0bdd3cdc4bcb38</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-12-05 21:46:32</sys_updated_on>
+        <sys_updated_on>2019-12-09 22:31:05</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
