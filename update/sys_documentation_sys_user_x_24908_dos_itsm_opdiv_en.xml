@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_24908_dos_itsm_opdiv" label="OpDiv" language="en" table="sys_user">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_24908_dos_itsm_opdiv</element>
+            <help/>
+            <hint/>
+            <label>OpDiv</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <plural>OpDivs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-09 22:20:34</sys_created_on>
+            <sys_id>d918fdf21b2100105e0bdd3cdc4bcb75</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>OpDiv</sys_name>
+            <sys_package display_value="DOS: ITSM" source="x_24908_dos_itsm">671e77111b2100105e0bdd3cdc4bcb39</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DOS: ITSM">671e77111b2100105e0bdd3cdc4bcb39</sys_scope>
+            <sys_update_name>sys_documentation_sys_user_x_24908_dos_itsm_opdiv_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-09 22:20:34</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
