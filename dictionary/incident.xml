@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element attributes="email_client=true,hasWorkflow=true,live_feed=true,all_tables.query_hints=true" audit="true" extends="task" label="Incident" max_length="40" name="incident" sizeclass="89" text_index="true" type="collection">
         <element attributes="edge_encryption_enabled=true" label="New Field Test 2" max_length="40" name="x_24908_dos_itsm_new_field_test_2" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="New Field Test 1" max_length="40" name="x_24908_dos_itsm_new_field_test_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Tester 1" max_length="40" name="x_24908_dos_itsm_new_field_test_1" type="string"/>
     </element>
 </database>
