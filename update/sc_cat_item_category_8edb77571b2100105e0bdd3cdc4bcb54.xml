@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Order Golf Club">f4bbf3571b2100105e0bdd3cdc4bcb95</sc_cat_item>
+        <sc_category display_value="Golf Clubs">35eaf7171b2100105e0bdd3cdc4bcbd4</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-11 21:13:13</sys_created_on>
+        <sys_id>8edb77571b2100105e0bdd3cdc4bcb54</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Golf Clubs.Order Golf Club</sys_name>
+        <sys_package display_value="DOS: ITSM" source="x_24908_dos_itsm">671e77111b2100105e0bdd3cdc4bcb39</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DOS: ITSM">671e77111b2100105e0bdd3cdc4bcb39</sys_scope>
+        <sys_update_name>sc_cat_item_category_8edb77571b2100105e0bdd3cdc4bcb54</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-11 21:13:13</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
